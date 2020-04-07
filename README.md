@@ -1,6 +1,6 @@
 # grwei.github.io
 
-Websites for me and my projects.
+[Websites](https://grwei.github.io/) for me and my projects.
 
 ## Overview
 
