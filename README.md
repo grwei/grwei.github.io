@@ -4,6 +4,8 @@
 
 ## Overview
 
+- [本-(2020-2021-2)-MA1207-2-概率统计](https://grwei.github.io/SJTU_2020-2021-2-MA1207/)
+- [本-(2020-2021-2)-EI227-4-工程实践与科技创新Ⅱ-A](https://grwei.github.io/SJTU_2020-2021-2-EI227/)
 - [transmission-line-params-extractor](https://grwei.github.io/transmission-line-params-extractor/)
 - [vna-calib](https://github.com/grwei/vna-calib/) (private)
 - [data-structure-homework](https://grwei.github.io/data-structure-homework/)
