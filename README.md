@@ -5,6 +5,7 @@
 ## Overview
 
 - 课程项目
+  - [研-MATH6008-M01-偏微分方程数值方法](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/) (2022 Spring)
   - [研-MS8402-44000-M01-地球流体动力学I](https://grwei.github.io/SJTU_2021-2022-1-MS8402/) (2022 Spring)
   - [本-(2021-2022-1)-MS3406-1-粘性流体力学](https://grwei.github.io/SJTU_2021-2022-1-MS3406/) (2021 Fall)
   - [研-MATH6004-M03-计算方法](https://grwei.github.io/SJTU_2021-2022-1-MATH6004/) (2021 Fall)
