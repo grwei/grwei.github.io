@@ -17,7 +17,7 @@
 - [transmission-line-params-extractor](https://grwei.github.io/transmission-line-params-extractor/)
 - [CMake-TCLAP-Template](https://grwei.github.io/CMake-TCLAP-Template/)
 
-## Contact me
+## Contact Information
 
 - Author: Guorui Wei (危国锐)
 - E-mail: 313017602@qq.com
