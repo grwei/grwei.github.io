@@ -1,6 +1,6 @@
 # grwei.github.io
 
-[Websites](https://grwei.github.io/) for me and my projects.
+[Websites](https://grwei.github.io/) for me and my [projects](https://github.com/grwei).
 
 ## Overview
 
@@ -21,3 +21,4 @@
 
 - Author: Guorui Wei (危国锐)
 - E-mail: 313017602@qq.com
+- Github: [https://github.com/grwei](https://github.com/grwei)
