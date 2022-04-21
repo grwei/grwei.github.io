@@ -5,6 +5,9 @@
 ## Overview
 
 - 课程项目
+  - [研-STAT6001-M01-基础数理统计](https://grwei.github.io/SJTU_2021-2022-2_STAT6001/) (2022 Spring)
+  - [研-MS8401-44000-M01-海洋环境数据分析](https://grwei.github.io/SJTU_2021-2022-2_MS8401/) (2022 Spring)
+  - [本-(2021-2022-2)-ICE2301-3-信号与系统（A类）](https://grwei.github.io/SJTU_2021-2022-2_ICE2301/) (2022 Spring)
   - [本-(2021-2022-2)-MATH2401-1-抽象代数](https://grwei.github.io/SJTU_2021-2022-2-MATH2401/) (2022 Spring)
   - [研-MATH6008-M01-偏微分方程数值方法](https://grwei.github.io/SJTU_2021-2022-2-MATH6008/) (2022 Spring)
   - [研-MS8402-44000-M01-地球流体动力学I](https://grwei.github.io/SJTU_2021-2022-2-MS8402/) (2022 Spring)
