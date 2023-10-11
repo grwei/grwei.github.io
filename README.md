@@ -13,9 +13,10 @@
 1. **学术论文（报告）**
    1. 硕士阶段科研成果之第一作者期刊论文（[2023](rep_wrk/grl_wei2023a_.pdf)）
    2. 本科阶段科研成果之第一作者会议论文（含海报和宣讲视频, [2020](https://grwei.github.io/ncmmw2020/)）
-   3. 学士学位论文（含答辩 PPT, [2020](https://grwei.github.io/transmission-line-params-extractor/)）
-   4. 推免面试答辩 PPT（[2019](rep_wrk/pre_20190702.pdf)）
-   5. 大一暑期科研见习报告（[2017](rep_wrk/rep_201709.pdf)）
+   3. 发明专利（等待实审提案, [2022](https://cpquery.cponline.cnipa.gov.cn/detail/index?zhuanlisqh=7cue7YYHyo0QxkbNupRYZA%253D%253D&anjianbh)）
+   4. 学士学位论文（含答辩 PPT, [2020](https://grwei.github.io/transmission-line-params-extractor/)）
+   5. 推免面试答辩 PPT（[2019](rep_wrk/pre_20190702.pdf)）
+   6. 大一暑期科研见习报告（[2017](rep_wrk/rep_201709.pdf)）
 2. **课程项目（作业）**
    1. 湍流课程作业 4（[2021](rep_wrk/MS3401_hw4.pdf)）
    2. 地球流体动力学课程作业 1（[2022](https://grwei.github.io/SJTU_2021-2022-2-MS8402/hw1_%E5%8D%B1%E5%9B%BD%E9%94%90_120034910021.pdf)）
