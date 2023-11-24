@@ -6,7 +6,7 @@
 
 ## Curriculum Vitae
 
-- 个人简历 (PDF)
+- 个人简历 ([PDF](./个人简历.pdf))
 
 ## Representative Work
 
