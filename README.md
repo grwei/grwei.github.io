@@ -10,6 +10,8 @@
 
 ## Representative Work
 
+- **ORCID**: [0000-0002-5463-598X](https://orcid.org/0000-0002-5463-598X)
+
 1. **学术论文（报告）**
    1. 硕士阶段科研成果之第一作者期刊论文（[2023](rep_wrk/grl_wei2023a_.pdf)）
    2. 本科阶段科研成果之第一作者会议论文（含海报和宣讲视频, [2020](https://grwei.github.io/ncmmw2020/)）
