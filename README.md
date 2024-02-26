@@ -3,6 +3,19 @@
 <!-- [Websites](https://grwei.github.io/) for me and my [projects](https://github.com/grwei). -->
 - 矢志科研的大气与海洋科学爱好者
 - 致力于用技术方法发现、用物理规律解释、以数学语言描述大气与海洋的运动规律
+- **ORCID:**  <a
+   id="cy-effective-orcid-url"
+   class="underline"
+   href="https://orcid.org/0000-0002-5463-598X"
+   target="orcid.widget"
+   rel="me noopener noreferrer"
+   style="vertical-align: top">
+   <img
+      src="https://orcid.org/sites/default/files/images/orcid_128x128.png"
+      style="width: 1em; margin-inline-start: 0.5em"
+      alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-5463-598X
+   </a>
 
 ## Curriculum Vitae
 
@@ -10,15 +23,17 @@
 
 ## Representative Work
 
-- **ORCID**: [0000-0002-5463-598X](https://orcid.org/0000-0002-5463-598X)
+<!-- - **ORCID**: [0000-0002-5463-598X](https://orcid.org/0000-0002-5463-598X) -->
 
 1. **学术论文（报告）**
-   1. 硕士阶段科研成果之第一作者期刊论文（[2023](rep_wrk/grl_wei2023a_.pdf)）
-   2. 本科阶段科研成果之第一作者会议论文（含海报和宣讲视频, [2020](https://grwei.github.io/ncmmw2020/)）
-   3. 发明专利（等待实审提案, [2022](https://cpquery.cponline.cnipa.gov.cn/detail/index?zhuanlisqh=7cue7YYHyo0QxkbNupRYZA%253D%253D&anjianbh)）
-   4. 学士学位论文（含答辩 PPT, [2020](https://grwei.github.io/transmission-line-params-extractor/)）
-   5. 推免面试答辩 PPT（[2019](rep_wrk/pre_20190702.pdf)）
-   6. 大一暑期科研见习报告（[2017](rep_wrk/rep_201709.pdf)）
+   1. 硕士阶段科研成果之第一作者期刊论文（[2024](rep_wrk/grl_wei2023a_.pdf), submitted to _GRL_, under review）
+   2. 硕士阶段科研成果之第一作者期刊论文（[2024](https://doi.org/10.1016/j.dynatmoce.2024.101446)）
+   3. 硕士学位论文（[2024](rep_wrk/grl_wei2023a_.pdf)）
+   4. 本科阶段科研成果之第一作者会议论文（含海报和宣讲视频, [2020](https://grwei.github.io/ncmmw2020/)）
+   5. 发明专利（等待实审提案, [2022](https://cpquery.cponline.cnipa.gov.cn/detail/index?zhuanlisqh=7cue7YYHyo0QxkbNupRYZA%253D%253D&anjianbh)）
+   6. 学士学位论文（含答辩 PPT, [2020](https://grwei.github.io/transmission-line-params-extractor/)）
+   7. 推免面试答辩 PPT（[2019](rep_wrk/pre_20190702.pdf)）
+   8. 大一暑期科研见习报告（[2017](rep_wrk/rep_201709.pdf)）
 2. **课程项目（作业）**
    1. 湍流课程作业 4（[2021](rep_wrk/MS3401_hw4.pdf)）
    2. 地球流体动力学课程作业 1（[2022](https://grwei.github.io/SJTU_2021-2022-2-MS8402/hw1_%E5%8D%B1%E5%9B%BD%E9%94%90_120034910021.pdf)）
@@ -53,6 +68,6 @@
 
 - **Author**: Guorui Wei (危国锐)
 - **Website**: [grwei.github.io](https://grwei.github.io/)
-- **ResearchGate**: [ResearchGate](https://www.researchgate.net/profile/Guorui-Wei)
-- **Github**: [https://github.com/grwei](https://github.com/grwei)
+- **ResearchGate**: [researchgate.net/profile/Guorui-Wei](https://www.researchgate.net/profile/Guorui-Wei)
+- **Github**: [github.com/grwei](https://github.com/grwei)
 - **E-mail**: [313017602@qq.com](mailto:313017602@qq.com)
