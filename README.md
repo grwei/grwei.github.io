@@ -53,5 +53,6 @@
 
 - **Author**: Guorui Wei (危国锐)
 - **Website**: [grwei.github.io](https://grwei.github.io/)
+- **ResearchGate**: [ResearchGate](https://www.researchgate.net/profile/Guorui-Wei)
 - **Github**: [https://github.com/grwei](https://github.com/grwei)
 - **E-mail**: [313017602@qq.com](mailto:313017602@qq.com)
